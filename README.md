@@ -1,2 +1,2 @@
-# ifra-orchestrator
+# infra-orchestrator
 This repository manifests the infrastructure  
